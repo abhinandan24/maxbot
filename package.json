@@ -1,0 +1,14 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "My First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maxbot"
+  ],
+  "author": "Abhinandan Rajaraman",
+  "license": "ISC"
+}
